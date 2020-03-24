@@ -4,10 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am providing a Bangla translation of Jeremy Howard And Rachel Thomas'
+important article on COVID-19. We all need to do our part here. Spread the word,
+do something, anything! Do not let despair paralyze you at this hour. Many are
+  counting on you even if you do not know it. 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
